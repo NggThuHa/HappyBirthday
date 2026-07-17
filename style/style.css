@@ -133,6 +133,13 @@ canvas {
   height: auto;
 }
 
+.six .lydia-dp {
+  max-width: 70vw;
+  max-height: 55vh;
+  object-fit: contain;
+  border-radius: 8px; /* Optional touch to make it look a bit nicer */
+}
+
 .six .hat {
   position: absolute;
   width: 80px;
